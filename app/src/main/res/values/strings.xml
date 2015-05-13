@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+
+    <string name="titleTextView">Quem quer ser Milionário?</string>
+    <string name="action_settings">Opções</string>
+    <string name="btnNewGame">Novo Jogo</string>
+    <string name="btnSettings">Opções</string>
+    <string name="btnExit">Sair</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="btnA">A</string>
+    <string name="btnB">B</string>
+    <string name="btnC">C</string>
+    <string name="btnD">D</string>
+    <string name="btnHelp50">50:50</string>
+    <string name="btnHelpPub">Público</string>
+    <string name="btnHelpPhone">Telefone</string>
+    <string name="textViewQuestion">Question text goes here</string>
+    <string name="title_activity_game_play">GamePlayActivity</string>
+    <string name="textViewQnr">Question Number</string>
+    <string name="textViewScore">Score</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_quiz_game_application">QuizGameApplication</string>
+</resources>
